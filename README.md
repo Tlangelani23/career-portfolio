@@ -123,55 +123,56 @@ Watch My Mock Interview</a>
 
 ---
 
-#  REFLECTION ON MARKDOWN (STAR METHOD)
+# REFLECTION ON MARKDOWN (STAR METHOD)
 
-##  Situation
-I was required to create a GitHub digital portfolio using Markdown.
+Situation  
+I was required to create a digital portfolio using GitHub and Markdown.
 
-##  Task
-My task was to present my CV and evidence professionally online.
+Task  
+My task was to structure and present my CV, reflections, and evidence in a professional format.
 
-##  Action
-I learned Markdown syntax and organized my information clearly using GitHub.
+Action  
+I learned Markdown syntax and applied it to format headings, lists, and links. I also organised my GitHub repository to ensure all files were properly structured and accessible.
 
-## Result
-I successfully created a professional digital portfolio that demonstrates my work readiness.
-
----
-
-#  REFLECTION ON MOCK INTERVIEW (STAR METHOD)
-
-##  Situation
-I participated in a mock interview for career preparation.
-
-##  Task
-I needed to answer interview questions confidently and professionally.
-
-##  Action
-I prepared responses and practiced communication skills before recording the interview.
-
-##  Result
-I improved my confidence and professional communication skills.
+Result  
+I successfully created a professional digital portfolio that demonstrates my ability to use GitHub and Markdown effectively for professional documentation.
 
 ---
 
-#  REFLECTION ON GITHUB PAGES (STAR METHOD)
+# REFLECTION ON MOCK INTERVIEW (STAR METHOD)
 
-https://github.com/Tlangelani23/career-portfolio
+Situation  
+I participated in a mock interview as part of career readiness preparation.
 
-##  Situation
-I needed to publish my portfolio online.
+Task  
+My task was to answer questions confidently and demonstrate communication skills suitable for a professional environment.
 
-##  Task
-Use GitHub Pages to deploy my portfolio.
+Action  
+I prepared for the interview by practising common questions and structuring my responses clearly. I focused on communication, confidence, and professionalism during the recording.
 
-##  Action
-I uploaded my portfolio files and enabled GitHub Pages.
-
-##  Result
-My portfolio became publicly accessible online.
+Result  
+The experience improved my communication skills, confidence, and understanding of professional interview expectations.
 
 ---
+
+# REFLECTION ON GITHUB PAGES (STAR METHOD)
+
+Situation  
+I was required to publish my digital portfolio using GitHub Pages.
+
+Task  
+My task was to deploy my portfolio online so it could be publicly accessible.
+
+Action  
+I uploaded all required files to my GitHub repository and enabled GitHub Pages from the main branch. I tested the live site to ensure all links and content worked correctly.
+
+Result  
+I successfully deployed my portfolio online, gaining experience in web publishing and digital presentation of professional work.
+
+---
+# CONCLUSION
+
+This portfolio demonstrates my technical skills, academic progress, and readiness for the ICT industry. It reflects my ability to use digital tools to present professional information effectively.
 
 #  CONTACT
 
