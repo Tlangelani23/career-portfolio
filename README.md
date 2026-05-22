@@ -1,5 +1,4 @@
 # career-portfolio
-# career-portfolio
 #  Tlangelani Chauke
 
 <img src="profile.jpg" width="150" style="border-radius:50%">
